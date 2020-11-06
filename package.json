@@ -6,7 +6,7 @@
     "start": "node ./bin/www"
   },
   "directories": {
-    "test": "test"
+    "test": "src/test"
   },
   "devDependencies": {
     "@types/jest": "^24.0.25",

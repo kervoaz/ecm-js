@@ -117,3 +117,21 @@ dist
 .pnp.*
 
 .idea/
+build/main/dao/documentDao.js
+build/main/dao/documentDao.js.map
+build/main/dao/indexerDao.js
+build/main/dao/indexerDao.js.map
+build/main/dao/metadataDao.js
+build/main/dao/metadataDao.js.map
+build/main/service/IndexerService.js
+build/main/service/IndexerService.js.map
+build/main/service/storageService.js
+build/main/service/storageService.js.map
+build/main/technical/AWSClient.js
+build/main/technical/AWSClient.js.map
+build/main/technical/Logger.js
+build/main/technical/Logger.js.map
+build/test/allTests.test.js
+build/test/allTests.test.js.map
+build/test/config/DefaultEnv.js
+build/test/config/DefaultEnv.js.map

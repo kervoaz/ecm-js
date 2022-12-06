@@ -42,7 +42,7 @@
     "jwk-to-pem": "^2.0.3",
     "opentracing": "^0.14.4",
     "prom-client": "^12.0.0",
-    "qs": "^6.9.1",
+    "qs": "^6.9.7",
     "string-minify": "^1.0.1"
   }
 }
